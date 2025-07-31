@@ -1,7 +1,7 @@
 # Will Flaugher
 
-🎯 **Operations Strategy & CX Product Leader | MBA | Scalable Systems | AI-Powered Analytics | Cross-Functional Team Leadership**  
-📍 Oak Park, IL | 📧 wtflaugher@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/willflaugher)
+**Operations Strategy & CX Product Leader | MBA | Scalable Systems | AI-Powered Analytics | Cross-Functional Team Leadership**  
+Oak Park, IL | wtflaugher@gmail.com | [LinkedIn](https://www.linkedin.com/in/willflaugher)
 
 ---
 
