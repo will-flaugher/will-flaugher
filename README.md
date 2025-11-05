@@ -1,6 +1,6 @@
 # Will Flaugher
 
-**Operations Strategy & CX Product Leader | MBA | Scalable Systems | AI-Powered Analytics | Cross-Functional Team Leadership**  
+**Operations Strategy & CX Product Leader | SaaS, Fintech, Cloud Operations | MBA | Scaled team 6x and supported 4M+ global customers**  
 Oak Park, IL | wtflaugher@gmail.com | [LinkedIn](https://www.linkedin.com/in/willflaugher)
 
 ---
@@ -17,17 +17,19 @@ With my MBA-backed foundation in business strategy and a musician’s eye for de
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Career Highlights:
+- Increased CSAT 10-14% across support channels by introducing AI support and self-service tools
+- Improved forecasting accuracy 40% by conducting system audits and technical data gathering to resolve inefficiencies and operational issues
+- Reduced internal processing time up to 85% by automating workflows and launching new systems
+- Drove 6x departmental growth by overseeing recruitment, interviews, onboarding, training, and coaching 
+- Helped 10+ individuals secure promotions by conducting regular 1-on-1 mentoring sessions
 
-- Strategy & Operations  
-- Product Ownership and Management
-- Cross-functional Partnerships
-- Departmental and Team Leadership
-- Customer Experience (CX) Transformation  
-- Voice of Customer (VoC) Programs  
-- Data Analysis & Visualization (Excel, Python, Tableau, etc)  
-- Support Tooling & Automation (Zendesk, Salesforce, AI/LLM integration)  
-- Experimentation Design & Process Optimization  
+---
+
+## 💻 Key Skills & Tools:
+**Skills**: Strategic Planning, Operational Excellence, KPI Frameworks, Financial Modeling, Forecasting, Predictive Analytics, Delivery Enablement, Organizational Design, Change Management, Executive Briefings, Team Development, Market Trends, Corporate Governance, Product Adoption, Software Development, Machine Learning (ML) Methodologies, Data Modeling, Data Visualization, Customer Segmentation, Continuous Improvement, Agile Environments
+
+**Tools**: Tableau, Looker, SQL, Python, Excel (advanced), Salesforce, JIRA, Zendesk, and AI providers like OpenAI, Anthropic, Google, etc.
 
 ---
 
@@ -44,7 +46,7 @@ Capstone project for Python course: parsed and visualized sentiment across Amazo
 
 ## 🚀 Let’s Connect
 
-I'm always open to discussing roles in strategy, operations, CX leadership, or cross-functional program management—especially in tech-forward or customer-centric organizations.
+I'm open to discussing roles in product, strategy, operations, or cross-functional program management—especially in tech-forward, customer-centric organizations.
 
 📧 wtflaugher@gmail.com  
 🔗 [linkedin.com/in/willflaugher](https://linkedin.com/in/willflaugher)
