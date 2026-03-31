@@ -1,6 +1,6 @@
 # Will Flaugher
 
-**Operations Strategy & CX Product Leader | SaaS, Fintech, Cloud Operations | MBA | Scaled team 6x and supported 4M+ global customers**  
+**Strategy & Operations Leader | SaaS, Fintech, Cloud Operations | MBA | Scaled team 6x and supported 4M+ global customers**  
 Oak Park, IL | wtflaugher@gmail.com | [LinkedIn](https://www.linkedin.com/in/willflaugher)
 
 ---
